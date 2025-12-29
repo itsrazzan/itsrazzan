@@ -7,7 +7,7 @@
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** Java, JavaScript, PHP, SQL  
+- **Languages:** Java, JavaScript, PHP, SQL, R
 - **Web:** HTML, CSS, Tailwind CSS  
 - **Tools:** VS Code, Git, GitHub, Linux, XAMPP  
 - **Database:** MySQL, Postgres
